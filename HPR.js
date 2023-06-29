@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Remove Humble Bundle Partner Parameter
+// @name         Humble Partner Remover
 // @namespace    https://github.com/v317/hpr/
 // @version      1.0
 // @description  Removes the "?partner=username" query parameter from Humble Bundle URLs
